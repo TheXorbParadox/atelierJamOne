@@ -1,0 +1,16 @@
+C:\Users\HP\Documents\C#Projects\atelierJamOne\obj\Debug\net5.0\atelierJamOne.csprojAssemblyReference.cache
+C:\Users\HP\Documents\C#Projects\atelierJamOne\obj\Debug\net5.0\atelierJamOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\C#Projects\atelierJamOne\obj\Debug\net5.0\atelierJamOne.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\C#Projects\atelierJamOne\obj\Debug\net5.0\atelierJamOne.AssemblyInfo.cs
+C:\Users\HP\Documents\C#Projects\atelierJamOne\obj\Debug\net5.0\atelierJamOne.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\C#Projects\atelierJamOne\bin\Debug\net5.0\atelierJamOne.exe
+C:\Users\HP\Documents\C#Projects\atelierJamOne\bin\Debug\net5.0\atelierJamOne.deps.json
+C:\Users\HP\Documents\C#Projects\atelierJamOne\bin\Debug\net5.0\atelierJamOne.runtimeconfig.json
+C:\Users\HP\Documents\C#Projects\atelierJamOne\bin\Debug\net5.0\atelierJamOne.runtimeconfig.dev.json
+C:\Users\HP\Documents\C#Projects\atelierJamOne\bin\Debug\net5.0\atelierJamOne.dll
+C:\Users\HP\Documents\C#Projects\atelierJamOne\bin\Debug\net5.0\ref\atelierJamOne.dll
+C:\Users\HP\Documents\C#Projects\atelierJamOne\bin\Debug\net5.0\atelierJamOne.pdb
+C:\Users\HP\Documents\C#Projects\atelierJamOne\obj\Debug\net5.0\atelierJamOne.dll
+C:\Users\HP\Documents\C#Projects\atelierJamOne\obj\Debug\net5.0\ref\atelierJamOne.dll
+C:\Users\HP\Documents\C#Projects\atelierJamOne\obj\Debug\net5.0\atelierJamOne.pdb
+C:\Users\HP\Documents\C#Projects\atelierJamOne\obj\Debug\net5.0\atelierJamOne.genruntimeconfig.cache
