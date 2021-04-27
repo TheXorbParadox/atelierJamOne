@@ -2,6 +2,8 @@
 This is the submission of a calculator program for the Atelier Programming Jam
 The weird part is, I am an admin there.
 
+# Now it's in two languages, C# and C++.
+
 # review
 You should look at my code and review it in our discord server
 # How To Launch The Calculator
